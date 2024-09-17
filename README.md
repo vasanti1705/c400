@@ -7,4 +7,8 @@ This project has following features
 
 ---
 &copy;-vasanti kachare, mthree 2024
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1fd9caa (final commit -- vasanti)
 
